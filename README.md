@@ -22,8 +22,7 @@ The model distinguishes between visual features such as color, shape, and textur
 ## Repository Structure
 UE23CS352A-Bird-Species-Identification-from-an-Image/                                                                                                                                                             
 ├── ML_MiniProject.ipynb # Main notebook: preprocessing, training, evaluation                                                                                                                                     
-├── Classifier-Code.ipynb # Additional experiments with classifiers                                                                                                                                               
-├── requirements.txt                                                                                                                                                                                              
+├── Classifier-Code.ipynb # Additional experiments with classifiers                                                                                                                                                                                                                                                                                                                                         
 ├── Project_Summary.pdf                                                                                                                                                                                           
 └── README.md 
 
