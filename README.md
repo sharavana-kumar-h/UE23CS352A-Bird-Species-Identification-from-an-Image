@@ -51,7 +51,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn opencv-python
 ```
 ### 4. Dataset Setup
 
-- Download the CUB-200-2011 dataset
+- Download the CUB-200-2011 dataset (https://www.vision.caltech.edu/datasets/cub_200_2011/)
 - Extract and place the dataset inside the project root:
 
 ```bash
